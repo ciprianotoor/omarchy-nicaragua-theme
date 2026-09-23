@@ -1,3 +1,5 @@
+![Nicaragua Omarchy Theme](cover.svg)
+
 # Nicaragua — Omarchy theme
 
 Tema inspirado en Nicaragua: azul y blanco, el Lago Cocibolca, volcanes, ríos, costas y la arquitectura colonial de Granada.
