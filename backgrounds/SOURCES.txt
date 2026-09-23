@@ -1,0 +1,9 @@
+Fondos fotográficos obtenidos de Wikimedia Commons:
+
+- `corn-island.jpg`: Ridiculopathy, CC0 1.0 — Big Corn Island, Nicaragua.
+- `granada-cathedral.jpg`: Adalberto H. Vega, CC BY 2.0 — Catedral de Granada.
+- `corn-island-map.png`: LaNicoya, dominio público — Corn Island.
+
+Fuentes: https://commons.wikimedia.org/wiki/File:Big_Corn_Island,_aka_Great_Corn_Island,_Nicaragua_02.jpg
+https://commons.wikimedia.org/wiki/File:Catedral_de_Granada,_Nicaragua.jpg
+https://commons.wikimedia.org/wiki/File:IslaMaiz.png
