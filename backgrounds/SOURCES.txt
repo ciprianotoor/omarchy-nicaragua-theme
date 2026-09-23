@@ -7,3 +7,14 @@ Fondos fotográficos obtenidos de Wikimedia Commons:
 Fuentes: https://commons.wikimedia.org/wiki/File:Big_Corn_Island,_aka_Great_Corn_Island,_Nicaragua_02.jpg
 https://commons.wikimedia.org/wiki/File:Catedral_de_Granada,_Nicaragua.jpg
 https://commons.wikimedia.org/wiki/File:IslaMaiz.png
+
+- `masaya-volcano.jpg`: Dr. Alexey Yakovlev, CC BY-SA 2.0.
+- `masaya-crater.jpg`: Inga, CC BY-SA 2.0.
+- `somoto-canyon.jpg` and `somoto-river.jpg`: Wikimedia Commons, Somoto Canyon collection.
+- `ometepe-from-space.jpg`: NASA/JSC, ISS image — public NASA imagery.
+- `cape-gracias-a-dios.jpg`: Wikimedia Commons, Río Coco collection.
+- `somoto-street.jpg`: Wikimedia Commons, Somoto collection.
+
+Additional source pages: https://commons.wikimedia.org/wiki/Category:Masaya_Volcano
+https://commons.wikimedia.org/wiki/Category:Somoto_Canyon_National_Monument
+https://commons.wikimedia.org/wiki/Category:Coco_River
