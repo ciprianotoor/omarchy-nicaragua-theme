@@ -18,3 +18,41 @@ https://commons.wikimedia.org/wiki/File:IslaMaiz.png
 Additional source pages: https://commons.wikimedia.org/wiki/Category:Masaya_Volcano
 https://commons.wikimedia.org/wiki/Category:Somoto_Canyon_National_Monument
 https://commons.wikimedia.org/wiki/Category:Coco_River
+
+Fondos adicionales descargados desde Wikimedia Commons:
+
+- `nicaragua-01.jpg`: Sebastian Scheper, CC BY-SA 4.0 — Catedral de Granada.
+- `nicaragua-02.jpg`: Ghostwriter9151, CC BY-SA 4.0 — Cementerio de Granada.
+- `nicaragua-03.jpg`: Delwin Steven Campbell, CC BY 2.0 — Granada.
+- `nicaragua-04.jpg`: Brian Johnson y Dane Kantner, CC BY-SA 2.0 — Granada.
+- `nicaragua-05.jpg`: nakashi, CC BY-SA 2.0 — Granada.
+- `nicaragua-06.jpg`: MongeNajera, CC BY-SA 3.0 — Granada.
+- `nicaragua-07.jpg`: MongeNajera, CC BY-SA 3.0 — Granada.
+- `nicaragua-08.jpg`: MongeNajera, CC BY-SA 3.0 — Granada.
+- `nicaragua-09.jpg`: MongeNajera, CC BY-SA 3.0 — Granada.
+- `nicaragua-10.jpg`: MongeNajera, CC BY-SA 3.0 — Granada.
+- `nicaragua-11.jpg`: MongeNajera, CC BY-SA 3.0 — Granada.
+- `nicaragua-12-Couple-on-Lakeshore-Lake-Xolotlan-En-Route-to-Leon-Nica.jpg`: Adam Jones, CC BY-SA 2.0 — Lago Xolotlán.
+- `nicaragua-13-40B-Ometepec-Island-Lake-Nicaragua-USACE-p15141coll5-79.jpg`: USACE, dominio público — Isla Ometepe.
+- `nicaragua-14-Couple-on-Lakeshore-Lake-Xolotlan-En-Route-to-Leon-Nica.jpg`: Adam Jones, CC BY-SA 2.0 — Lago Xolotlán.
+- `nicaragua-15-Crater-of-Masaya-Volcano-Nicaragua-panoramio.jpg`: belemita, CC BY 3.0 — Cráter de Masaya.
+- `nicaragua-16-Edward-Gennys-Fanshawe-The-extinct-volcanoes-Viejo-and-.jpg`: Edward Gennys Fanshawe, dominio público — volcanes Viejo y Momotombo.
+- `nicaragua-17-ISS-38-Apoyeque-Volcano-Nicaragua.jpg`: NASA, dominio público — Volcán Apoyeque.
+- `nicaragua-18-ISS006-E-33030-View-of-Nicaragua.jpg`: NASA/JSC, dominio público — Vista de Nicaragua.
+- `nicaragua-19-ISS034-E-46887-View-of-Nicaragua.jpg`: NASA/JSC, dominio público — Vista de Nicaragua.
+- `nicaragua-20-ISS034-E-46888-View-of-Nicaragua.jpg`: NASA/JSC, dominio público — Vista de Nicaragua.
+- `nicaragua-21-ISS062-E-47648-View-of-Nicaragua.jpg`: NASA/JSC, dominio público — Vista de Nicaragua.
+- `nicaragua-22-ISS066-E-103300-View-of-Nicaragua.jpg`: NASA/JSC, dominio público — Vista de Nicaragua.
+- `nicaragua-23-Isla-Momotombito-in-Lake-Managua-and-Momotombo-Volcano-.jpg`: Pi3.124, CC BY-SA 4.0 — Lago de Managua y Momotombo.
+- `nicaragua-24-Lake-Nicaragua-Isla-de-Ometepe.jpg`: Captain Herbert, CC BY-SA 3.0 — Lago Nicaragua y Ometepe.
+- `nicaragua-25-Lake-Nicaragua-from-Granada.jpg`: Byralaal, CC BY-SA 4.0 — Lago Nicaragua desde Granada.
+- `nicaragua-26-Le-volcan-Momotombo-Nicaragua-3281572693.jpg`: Jean-Pierre Dalbéra, CC BY 2.0 — Volcán Momotombo.
+- `nicaragua-27-Masaya-volcano-crater-and-lava-glow-2003-Nicaragua.jpg`: DavidMPyle, CC BY-SA 4.0 — Cráter de Masaya.
+- `nicaragua-28-Mombacho-Volcano-View-from-Nicaragua-Lake.jpg`: Silenzio76, CC BY-SA 3.0 — Volcán Mombacho.
+- `nicaragua-29-Nicaragua-Ometepe-Blick-vom-Concepción-Vulkan.jpg`: Wolkenkratzer, CC BY-SA 4.0 — Ometepe desde el Concepción.
+- `nicaragua-30-Nicaragua-2017-03-16-33300481454.jpg`: Guillaume Baviere, CC BY-SA 2.0 — Paisaje de Nicaragua.
+
+Páginas de origen de los fondos adicionales:
+https://commons.wikimedia.org/wiki/Category:Nicaragua
+https://commons.wikimedia.org/wiki/Category:Nature_of_Nicaragua
+https://commons.wikimedia.org/wiki/Category:Volcanoes_of_Nicaragua
